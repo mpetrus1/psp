@@ -1,4 +1,4 @@
-package Tema2_Fils;
+package Tema2_Fils.Exemple2LlensaFilEsperaAcabi;
 
 import java.util.Random;
 
